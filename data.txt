@@ -1,1 +1,2 @@
-selamat datang di githup
+selamat datang di githup.
+saat ini saya sedang tentang cara menggunakan git remote
